@@ -1,0 +1,3 @@
+ex02_1
+
+Assign 5, 7, 8 to x, y, z respectively. Calculate x - y / z. What is the result when you calculate it by hand? What is the result calculated by Dart? Are they the same?
